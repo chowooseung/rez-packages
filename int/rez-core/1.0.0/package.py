@@ -10,13 +10,13 @@ author = "chowooseoung"
 
 environ = {
     "any": {
-        "SHOW_PATH": "C:/Users/chowo/VFX/show",
+        "SHOW_PATH": "C:/Users/chowo/production/show",
 
-        "INHOUSE_PATH": "C:/Users/chowo/VFX/inhouse",
-        "DCC_PATH": "C:/Users/chowo/VFX/inhouse/DCC",
-        "MAYA_PATH": "C:/Users/chowo/VFX/inhouse/DCC/maya",
+        "INHOUSE_PATH": "C:/Users/chowo/production/inhouse",
+        "DCC_PATH": "C:/Users/chowo/production/inhouse/DCC",
+        "MAYA_PATH": "C:/Users/chowo/production/inhouse/DCC/maya",
 
-        "NOLAVA_PATH": "C:/Users/chowo/VFX/inhouse/nolava_config",
+        "NOLAVA_PATH": "C:/Users/chowo/production/inhouse/nolava_config",
 
         "MONGO": "localhost:27017",
     },
